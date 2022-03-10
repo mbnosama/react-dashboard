@@ -1,0 +1,19 @@
+.navbar {
+  height: 4rem;
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar-items {
+  display: flex;
+  flex-direction: row;
+}
+.navbar-one-item {
+  margin-left: 0.2rem;
+  background-color: #111;
+  padding: 0.2rem;
+}
